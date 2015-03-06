@@ -1,3 +1,5 @@
 Enter file contents here
 Hello new file for cocos2d-x
 nihao
+server update
+
